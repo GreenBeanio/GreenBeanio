@@ -3,18 +3,20 @@
 My name Garrett but you can call me ***Green Beanio.***
 
 ### 🏢 What do you do? 🏢
-- I'm currently in college for Business Administration.
+- I'm currently in college pursuing a Master's in Data Science.
+- I have my Bachelor's in Business Administration.
 
 ### 🪑 What are you doing here? 🪑
-- I don't really know what I'm doing. I'm not any kind of expert programmer.
+- I'm making little programs for things that I want or need.
 
 ### 📚 What languages do you know 📚
-- I'm pretty decent with C#.
-- I know a little bit of HTML, Javascript, CSS.
-- I'm learning python.
-- I made a Minecraft mod that added sheep meat or something once when I was 12. So pretty much a Java pro.
-- I know some shell, bash, whatever flavor you want to use.
-- Does it really matter? Once you know one, they're all pretty much same fundamentally.
+- Decent with Python
+- Decent with C#
+- Decent with HTML, Javascript, CSS
+- New to Go
+- Learning R
+- Know shell/bash
+- Once you know one the rest are just different terms and syntax.
 
 ### 🤓 What do you use 🤓
 - 🖥 Desktop: Windows 10 Home Edition 🖥

@@ -3,62 +3,46 @@
 My name Garrett but you can call me ***Green Beanio.***
 
 ### 🏢 What do you do? 🏢
-- I'm currently in college pursuing a Master's in Data Science.
-- I have my Bachelor's in Business Administration.
+
+- I'm currently looking for a job in the data science field.
 
 ### 🪑 What are you doing here? 🪑
-- I'm making little programs for things that I want or need.
+
+- Creating personal projects.
+- Furthering my knowledge, skill, and experience.
+- Learning new programming languages, frameworks, and tools.
 
 ### 📚 What languages do you know 📚
-- Decent with Python
-- Decent with C#
-- Decent with HTML, Javascript, CSS
-- New to Go
-- Learning R
-- Know shell/bash
-- Once you know one the rest are just different terms and syntax.
 
-### 🤓 What do you use 🤓
-- 🖥 Desktop: Windows 10 Home Edition 🖥
-  - 🔺 VM: ARCH 🔻
-  - 🐠 VM: Gentoo 🐠
-- 💻 Laptop: Windows 10 Home Edition 💻
-- 📱 Phone: Android 📱
-- 💾 Server: Ubuntu 💾
+- Main Langauges
+  - Python
+  - R
+  - SQL
+- Other Languages
+  - JavaScript
+  - Go
+  - Shell
+  - C#
+  - Visual Basic
+  - C++
 
-### 🍴 What do you consume 🍴
-- 🥤 Dr. Pepper 🥤
-- 🍚 Rice 🍚
-- 🐄 Beef 🐄
-- 🐣 Chicken 🐣
-- 🍳 Egg 🍳
-- 🐟 Tuna 🐟
-- 🌶 Pepper 🌶
-- 💚 Green Beans 💚
-- 🌽 Corn 🌽
-- 🍞 Bread 🍞
-- 🧈 Butter 🧈
-- 🍝 Pasta 🍝
-- 🛢 Oil 🛢
+### 🎓 Education 🎓
 
-### 💵 How do you make *Money* 💵
-- I don't have a job 😔 
-- No money 📉
+- Master of Science
+  - Major: Data Science
+  - Year: 2024
+  - GPA: 3.7
+- Bachelor of Science
+  - Major: Business Administration
+  - Year: 2022
+  - GPA: 3.1
+  - Dean's List: Spring 2022 & Fall 2022
 
-### 🎉 What do you do for fun 🎉
-- 🏫 Learn 🏫
-  - 👨‍🏫 Courses 👨‍🏫
-- 🛠 Create 🛠
-  - 🎨 Art 🎨
-  - 🎹 Music 🎹
-  - 📝 Writing 📝
-  - ⌨ Programming ⌨
-  - 🎥 Video 🎥 
-- 😯 Consume 😯
-  - 🎮 ***Elite Gamer*** 🎮
-  - 📖 Reading 📖
-  - 🍙 Weeb 🍙
-  - 🎒 Backpacker 🎒
-  
-## 🦎 Where can I contact you? 🦎
--  🐢 [MY EPIC WEBSITE](https://www.petrifiedentertainment.com/) 🐢
+### 💻 Work Experience 💻 ###
+
+- Nothing in the relevant field yet.
+
+### 🦎 Contact Me 🦎
+
+- [Website](greenbeanio.com/contact) (Not set up yet)
+- Email: <johnsonmichaelgarrett@outlook.com>

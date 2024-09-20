@@ -50,7 +50,9 @@ My name Garrett but you can call me ***Green Beanio.***
 ### [GitHub Stats Cards](https://github.com/anuraghazra/github-readme-stats)
 
 ![GreenBeanios's Total Stats](https://github-readme-stats.vercel.app/api?username=greenbeanio&theme=merko&card_width=360&include_all_commits=True&show=prs_merged,prs_merged_percentage,reviews,discussions_started,discussions_answered,&custom_title=Total&hide=contribs)
+
 ![GreenBeanios's Yearly Stats](https://github-readme-stats.vercel.app/api?username=greenbeanio&theme=merko&card_width=420&hide_rank=True&hide=stars,prs,issues&custom_title=Yearly)
+
 ![GreenBeanios Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greenbeanio&theme=merko&layout=donut&langs_count=8&hide=ShaderLab,HLSL&card_width=370&custom_title=Languages)
 
 ### [Visits](https://visitor-badge.laobi.icu/)
